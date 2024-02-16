@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HelloWorld bruner zach/1.0.0": {
+        "runtime": {
+          "HelloWorld bruner zach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld bruner zach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

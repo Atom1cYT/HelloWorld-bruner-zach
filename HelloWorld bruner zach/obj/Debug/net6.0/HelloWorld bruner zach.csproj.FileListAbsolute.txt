@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\bin\Debug\net6.0\HelloWorld bruner zach.exe
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\bin\Debug\net6.0\HelloWorld bruner zach.deps.json
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\bin\Debug\net6.0\HelloWorld bruner zach.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\bin\Debug\net6.0\HelloWorld bruner zach.dll
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\bin\Debug\net6.0\HelloWorld bruner zach.pdb
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.dll
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\refint\HelloWorld bruner zach.dll
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.pdb
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\HelloWorld bruner zach.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\HelloWorld bruner zach\HelloWorld bruner zach\obj\Debug\net6.0\ref\HelloWorld bruner zach.dll
